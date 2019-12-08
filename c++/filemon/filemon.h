@@ -1,6 +1,3 @@
-#include<string>
-#include<vector>
-#include<fstream> 
 #include"common.h"
 
 #ifndef FILEMON_FILEMON_H
