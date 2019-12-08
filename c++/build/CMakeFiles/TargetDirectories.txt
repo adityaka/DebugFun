@@ -1,0 +1,3 @@
+/home/kapura1/src/debugfun/c++/build/CMakeFiles/rebuild_cache.dir
+/home/kapura1/src/debugfun/c++/build/CMakeFiles/filemon.dir
+/home/kapura1/src/debugfun/c++/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/filemon.dir/main.cpp.o CMakeFiles/filemon.dir/filer.cpp.o CMakeFiles/filemon.dir/filemon.cpp.o  -o filemon -lpthread 
